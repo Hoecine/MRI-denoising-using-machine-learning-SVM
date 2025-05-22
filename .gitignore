@@ -1,0 +1,17 @@
+
+
+__pycache__/
+*.pkl
+*.mat
+*.h5
+*.csv
+*.zip
+*.npz
+*.npy
+.ipynb_checkpoints/
+venv/
+.env
+.DS_Store
+.vscode/
+01_MRI_Data/
+data/raw
